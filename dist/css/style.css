@@ -1,0 +1,25 @@
+.bg-default{
+	background-color: #000d6b;
+}
+
+.navbar-brand,
+.navbar-nav  > a {
+	color: white;
+}
+
+
+.menu{
+	padding: 10px;
+	background-color: #ffbe76;
+	height: auto;
+}
+.menu i{
+	font-size: 30px;
+}
+.menu h4{
+	margin-bottom: 0px;
+}
+
+.menu a:hover{
+	color: white;
+}
