@@ -12,7 +12,7 @@
     <div class="col-md-4 text-center">
       <div class="menu">
         <a href="tipe_produk.php" class="btn btn-app">
-          <i style="" class="fa fa-boxes"></i> <br> <h4>List Produk</h4>
+          <i style="" class="fa fa-boxes"></i> <br> <h4>Makanan</h4>
         </a>        
       </div>
       
@@ -21,7 +21,7 @@
     <div class=" col-md-4 text-center">
       <div class="menu">
       <a href="toko/list_toko.php" class="btn btn-app">
-        <i class="fa fa-store-alt"></i> <br><h4> List Toko</h4>
+        <i class="fa fa-store-alt"></i> <br><h4> Minuman</h4>
       </a>
     </div>
     </div>
@@ -29,7 +29,7 @@
     <div class=" col-md-4 text-center">
       <div class="menu">
       <a href="gudang/gudang.php" class="btn btn-app">
-        <i class="fa fa-warehouse"></i> <br> <h4>Stok Gudang</h4>
+        <i class="fa fa-warehouse"></i> <br> <h4>Non-Makanan</h4>
       </a>
     </div>
     </div>
