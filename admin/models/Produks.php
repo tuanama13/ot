@@ -1,9 +1,7 @@
 <?php
     class Produk
     {
-        private $conn;
-
-        
+        private $conn;       
 
         // Tabel Barang
         public $id_barang;

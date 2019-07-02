@@ -1,8 +1,8 @@
 <?php
-    $path = realpath(__DIR__ . '/../..');
+    $path = realpath(__DIR__ . '/../../..');
     include_once($path . '/init/db.php');
-    include_once '../header.php';   
-    include_once '../navbar.php';
+    include_once '../../header.php';   
+    include_once '../../navbar.php';
 
   
 ?>

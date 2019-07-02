@@ -28,28 +28,37 @@
 
 <div class="container">
   <div class="row">
-    <div class="menu col-md-3 text-center">
-      <a class="btn btn-app">
-        <i style="" class="fa fa-boxes"></i> Produk
-      </a>
+      <div class="col-md-3 col-xs-6 text-center">
+      <div class="menu">
+        <a href="views/produk/list_produk.php" class="btn btn-app">
+          <i style="" class="fa fa-boxes"></i> <br> <h4>Produk</h4>
+        </a>        
+      </div>
+      
     </div>
     <!-- /col-3 -->
-    <div class="menu col-md-3 text-center">
-      <a class="btn btn-app">
-        <i class="fa fa-store-alt"></i> Toko
+    <div class=" col-md-3 col-xs-6 text-center">
+      <div class="menu">
+      <a href="views/toko/list_toko.php" class="btn btn-app">
+        <i class="fa fa-store-alt"></i> <br><h4> Toko</h4>
       </a>
     </div>
-    <!-- /col-3 -->
-    <div class="menu col-md-3 text-center">
-      <a class="btn btn-app">
-        <i class="fa fa-history"></i> History Order
-      </a>
     </div>
     <!-- /col-3 -->
-    <div class="menu col-md-3 text-center">
-      <a class="btn btn-app">
-        <i class="fa fa-user"></i> Akun
+    <div class=" col-md-3 col-xs-6 text-center">
+      <div class="menu">
+      <a href="gudang/gudang.php" class="btn btn-app">
+        <i class="fa fa-hand-holding-usd"></i> <br> <h4>Order</h4>
       </a>
+    </div>
+    </div>
+    <!-- /col-3 -->
+    <div class=" col-md-3 col-xs-6 text-center">
+      <div class="menu">
+      <a href="order/list_order.php" class="btn btn-app">
+        <i class="fa fa-users"></i> <br> <h4>Akun</h4>
+      </a>
+    </div>
     </div>
     <!-- /col-3 -->
   </div>

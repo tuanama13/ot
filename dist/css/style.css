@@ -9,12 +9,24 @@
 
 
 .menu{
+	border-style: solid;
+	border-width: 2px;
+	border-color: #000d6b;
+	border-radius: 10px;
 	padding: 10px;
-	background-color: #ffbe76;
+	/* background-color: #ffbe76; */
+	background-color: white;
 	height: auto;
 }
+
+.menu:hover{	
+	background-color: #000d6b;
+	color: white;
+	/* height: auto; */
+}
+
 .menu i{
-	font-size: 30px;
+	font-size: 40px;
 }
 .menu h4{
 	margin-bottom: 0px;

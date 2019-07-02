@@ -48,7 +48,7 @@
     <div class=" col-md-3 col-xs-6 text-center">
       <div class="menu">
       <a href="gudang/gudang.php" class="btn btn-app">
-        <i class="fa fa-warehouse"></i> <br> <h4>Stok Gudang</h4>
+        <i class="fa fa-hand-holding-usd"></i> <br> <h4>Order</h4>
       </a>
     </div>
     </div>

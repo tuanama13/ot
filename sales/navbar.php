@@ -4,7 +4,7 @@
 	<div class="container">		
 		<a class="navbar-brand" href="/ot/sales/index.php">
 				<!-- <img src="assets/img/ico.png" width="30" height="30" class="d-inline-block align-top" alt=""> -->
-				Inland Cafe
+				Arta Boga Cemerlang
 		</a>
 
 		<div class="account pull-right">

@@ -7,7 +7,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Inland Cafe | Kasir</title>
+    <title>Inland Cafe | Admin</title>
     <link rel="icon" 
       type="" 
       href="/ot/Logo2.ico">
