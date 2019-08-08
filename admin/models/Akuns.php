@@ -19,6 +19,16 @@
         function __construct($db)
 		{
 			$this->conn = $db;
-		}
+        }
+        
+         public function readUser()
+        {
+            $query = "SELECT tbl_user.*,tbl_pegawai.nama_pegawai FROM tbl_user JOIN tbl_pegawai USING(id_pegawai)";
+
+            $stmt = $this->conn->prepare($query);
+            $stmt->execute();
+
+            return $stmt;   
+        }
 
     }

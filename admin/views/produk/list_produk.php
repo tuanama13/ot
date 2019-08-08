@@ -11,8 +11,8 @@
   <div class="row">
     <div class="col-md-4 text-center">
       <div class="menu" style="">
-        <a href="produk_makanan.php" class="btn btn-app">
-          <i style="" class="fa fa-hamburger"></i> <br> <h4>Makanan</h4>
+        <a href="produk.php?kat=1" class="btn btn-app">
+          <i style="" class="fa fa-utensils"></i> <br> <h4>Makanan</h4>
         </a>        
       </div>
       
@@ -20,15 +20,15 @@
     <!-- /col-3 -->
     <div class=" col-md-4 text-center">
       <div class="menu">
-      <a href="produk_minuman.php" class="btn btn-app">
-        <i class="fa fa-wine-bottle"></i> <br><h4> Minuman</h4>
+      <a href="produk.php?kat=2" class="btn btn-app">
+        <i class="fa fa-coffee"></i> <br><h4> Minuman</h4>
       </a>
     </div>
     </div>
     <!-- /col-3 -->
     <div class=" col-md-4 text-center">
       <div class="menu">
-      <a href="produk_non.php" class="btn btn-app">
+      <a href="produk.php?kat=3" class="btn btn-app">
         <i class="fa fa-battery-full"></i> <br> <h4>Non-Makanan</h4>
       </a>
     </div>

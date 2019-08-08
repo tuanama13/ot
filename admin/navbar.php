@@ -4,13 +4,13 @@
 	<div class="container">		
 		<a class="navbar-brand" href="/ot/admin/index.php">
 				<!-- <img src="assets/img/ico.png" width="30" height="30" class="d-inline-block align-top" alt=""> -->
-				Inland Cafe
+				Arta Boga Cemerlang
 		</a>
 
 		<div class="account pull-right">
 			<!-- <img src="../dist/img/ico_table.svg" id="link_table" style="width: 30px; height: 30px;  margin-right: 20px; fill: white;"> -->
 
-			<img src="../dist/img/ico_coffee.png" class="img-avatar" alt="avatar">
+			<img src="/ot/dist/img/avatar.png" width="30px" height="30px" class="img-avatar" alt="avatar">
 			<div class="btn-group" style="margin-top:7px;">			
 
 				<button type="button" class="btn btn-default bg-green account-menu dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">

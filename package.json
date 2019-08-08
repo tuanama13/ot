@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "select2": "^4.0.8"
+  }
+}

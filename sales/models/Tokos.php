@@ -24,4 +24,14 @@
 
             return $stmt;   
         }
+
+        public function readOneToko($id_toko)
+        {
+            $query = "SELECT * FROM tbl_toko WHERE id_toko = '$id_toko'";
+
+            $stmt = $this->conn->prepare($query);
+            $stmt->execute();
+
+            return $stmt;   
+        }
     }

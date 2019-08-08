@@ -30,7 +30,7 @@
   <div class="row">
     <div class="col-md-3 col-xs-6 text-center">
       <div class="menu">
-        <a href="produk/list_produk.php" class="btn btn-app">
+        <a href="views/produk/list_produk.php" class="btn btn-app">
           <i style="" class="fa fa-boxes"></i> <br> <h4>List Produk</h4>
         </a>        
       </div>
@@ -39,7 +39,7 @@
     <!-- /col-3 -->
     <div class=" col-md-3 col-xs-6 text-center">
       <div class="menu">
-      <a href="toko/list_toko.php" class="btn btn-app">
+      <a href="views/toko/list_toko.php" class="btn btn-app">
         <i class="fa fa-store-alt"></i> <br><h4> List Toko</h4>
       </a>
     </div>
@@ -47,7 +47,7 @@
     <!-- /col-3 -->
     <div class=" col-md-3 col-xs-6 text-center">
       <div class="menu">
-      <a href="gudang/gudang.php" class="btn btn-app">
+      <a href="views/order/order.php" class="btn btn-app">
         <i class="fa fa-hand-holding-usd"></i> <br> <h4>Order</h4>
       </a>
     </div>
@@ -55,7 +55,7 @@
     <!-- /col-3 -->
     <div class=" col-md-3 col-xs-6 text-center">
       <div class="menu">
-      <a href="order/list_order.php" class="btn btn-app">
+      <a href="views/order/last_order.php" class="btn btn-app">
         <i class="fa fa-history"></i> <br> <h4>History Order</h4>
       </a>
     </div>

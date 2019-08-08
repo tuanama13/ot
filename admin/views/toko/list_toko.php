@@ -21,7 +21,7 @@
         <div class="col-md-12" style='margin-top:25px;'>
             <div class="row">
                 <div class='col-md-6'><h3 style='margin-top:5px;margin-bottom:5px;'>Daftar Toko</h3></div>
-                <div class='col-md-6'><a href="" class='btn btn-success pull-right' style='margin-top:5px;margin-bottom:5px;'><i class='fa fa-plus'></i> Tambah</a></div>
+                <div class='col-md-6'><a href="form_toko.php" class='btn btn-success pull-right' style='margin-top:5px;margin-bottom:5px;'><i class='fa fa-plus'></i> Tambah</a></div>
             </div>
             <br>
             <br>
@@ -46,7 +46,7 @@
                                     <td>".$value['alamat_toko']."</td>
                                     <td>".$value['kontak_toko']."</td>
                                     <td>".$value['email_toko']."</td>
-                                    <td><a href='' class='btn btn-info'><i class='fa fa-pen'></i></a></td>
+                                    <td><a href='' class='btn btn-info'><i class='fa fa-pencil'></i></a></td>
                                     <td><a href='' class='btn btn-danger'><i class='fa fa-times'></i></a></td>
                                 </tr>
                             ";

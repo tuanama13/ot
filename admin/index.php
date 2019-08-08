@@ -55,7 +55,7 @@
     <!-- /col-3 -->
     <div class=" col-md-3 col-xs-6 text-center">
       <div class="menu">
-      <a href="order/list_order.php" class="btn btn-app">
+      <a href="views/akun/listuser.php" class="btn btn-app">
         <i class="fa fa-users"></i> <br> <h4>Akun</h4>
       </a>
     </div>

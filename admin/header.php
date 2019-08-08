@@ -7,7 +7,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Inland Cafe | Admin</title>
+    <title>Arta Boga Cemerlang | Admin</title>
     <link rel="icon" 
       type="" 
       href="/ot/Logo2.ico">
@@ -19,10 +19,12 @@ scratch. This page gets rid of all links and provides the needed markup only.
     <meta name="theme-color" content="#ffffff">
     <!-- Bootstrap 3.3.6 -->
     <link rel="stylesheet" href="/ot/plugins/bootstrap/css/bootstrap.min.css">
-    <!-- Font Awesome -->
-    <link rel="stylesheet" href="/ot/plugins/font-awesome/css/all.min.css">
-    <!-- Ionicons -->
-    <link rel="stylesheet" href="/ot/plugins/ionicons/css/ionicons.min.css">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="/ot/plugins/font-awesome/css/all.min.css">
+  <!-- Ionicons -->
+  <link rel="stylesheet" href="/ot/plugins/ionicons/css/ionicons.min.css">
+    <!-- Select2 -->
+    <link rel="stylesheet" href="/ot/bower_components/select2/dist/css/select2.min.css">
 
     <!-- Style -->
     <link rel="stylesheet" href='/ot/dist/css/style.css?version=<?php echo rand()?>'>
@@ -69,6 +71,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
   
     <script language="JavaScript" src="/ot/plugins/Responsive-2.2.2/js/dataTables.responsive.min.js" type="text/javascript"></script>
     <script language="JavaScript" src="/ot/plugins/Responsive-2.2.2/js/responsive.bootstrap.min.js" type="text/javascript"></script>
+    <script src="/ot/bower_components/select2/dist/js/select2.min.js"></script>
     <!-- <script src="/ot/plugins/chart.js/Chart.js"></script> -->
     <!-- <script src="/ot/plugins/shortcut.js"></script> -->
     
